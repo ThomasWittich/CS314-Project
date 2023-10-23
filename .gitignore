@@ -1,0 +1,105 @@
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
+# Idea Files
+
+.idea/
+
+# Coverage Files, Bundled Files, Dependencies
+
+client/dist
+client/dist/
+*/node_modules
+*/node_modules/
+*/package-lock.json
+
+# Generated Java Files
+
+server/dependency-reduced-pom.xml
+server/.m2/repository
+server/.m2/repository/
+target
+target/
+
+server/.project
+server/.settings/
+
+server/*.iml
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
+# Idea Files
+
+.idea/
+
+# Coverage Files, Bundled Files, Dependencies
+
+client/dist
+client/dist/
+*/node_modules
+*/node_modules/
+*/package-lock.json
+
+# Generated Java Files
+
+server/dependency-reduced-pom.xml
+server/.m2/repository
+server/.m2/repository/
+target
+target/
+
+server/.project
+server/.settings/
+
+server/*.iml
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
+# Idea Files
+
+.idea/
+
+# Coverage Files, Bundled Files, Dependencies
+
+client/dist
+client/dist/
+*/node_modules
+*/node_modules/
+*/package-lock.json
+
+# Generated Java Files
+
+server/dependency-reduced-pom.xml
+server/.m2/repository
+server/.m2/repository/
+target
+target/
+
+server/.project
+server/.settings/
+
+server/*.iml
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
+# Idea Files
+
+.idea/
+
+# Coverage Files, Bundled Files, Dependencies
+
+client/dist
+client/dist/
+*/node_modules
+*/node_modules/
+*/package-lock.json
+
+# Generated Java Files
+
+server/dependency-reduced-pom.xml
+server/.m2/repository
+server/.m2/repository/
+target
+target/
+
+server/.project
+server/.settings/
+
+server/*.iml
+t31.code-workspace
